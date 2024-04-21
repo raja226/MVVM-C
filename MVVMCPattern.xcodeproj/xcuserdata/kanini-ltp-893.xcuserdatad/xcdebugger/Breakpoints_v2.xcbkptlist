@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C61D2A0-1667-44FC-A3DE-61DA33CF736C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EFA3F91-760E-4B4E-8E50-496F289666C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCPattern/Coordinator/LoginViewCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EFA3F91-760E-4B4E-8E50-496F289666C2 - 6a22b1faee1d5c52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMCPattern.LoginViewCoordinator.start() -&gt; ()"
+                  moduleName = "MVVMCPattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kanini-ltp-893/Documents/SelfDevelopment/Swift/MVVMCPattern/MVVMCPattern/Coordinator/LoginViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "0EFA3F91-760E-4B4E-8E50-496F289666C2 - 6a22b1faee1d5ec6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMCPattern.LoginViewCoordinator.start() -&gt; ()"
+                  moduleName = "MVVMCPattern"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kanini-ltp-893/Documents/SelfDevelopment/Swift/MVVMCPattern/MVVMCPattern/Coordinator/LoginViewCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
